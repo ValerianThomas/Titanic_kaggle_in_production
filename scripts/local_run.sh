@@ -1,0 +1,1 @@
+sudo PORT=5000 SHOULD_FILL_DB=no DATABASE_URL=postgres://ozrageid:IFmOQVAa9aMANKuAVqKYXAzE01HsH14N@manny.db.elephantsql.com:5432/ozrageid docker run -p 5000:5000 -e DATABASE_URL -e PORT -e SHOULD_FILL_DB  -t titanic_test:latest 
