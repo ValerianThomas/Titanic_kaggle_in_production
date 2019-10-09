@@ -1,4 +1,5 @@
 # Kaggle Titanic model  in production with Flask and Docker
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 - - - -
 This repository is a complete set-up to build the a gaggle Titanic model into production using Flask and Docker
 [The scope of the project can be found here](./Scope.md)
