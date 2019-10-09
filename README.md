@@ -1,6 +1,7 @@
 # Kaggle Titanic model  in production with Flask and Docker
 - - - -
 This repository is a complete set-up to build the a gaggle Titanic model into production using Flask and Docker
+[The scope of the project can be found here](./Scope.md)
 
 ## Dependencies
 - - - -
